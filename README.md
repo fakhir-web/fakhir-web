@@ -38,6 +38,11 @@ I enjoy turning ideas into clean interfaces, interactive experiences, and respon
 ---
 
 ## ⭐ Featured Projects
+## 🌐 My Portfolio
+
+My personal portfolio website showcasing my skills, services, projects, and frontend development journey.
+
+🔗 [View My Portfolio](https://fakhir-web.github.io/fakhir-portfolio/)
 
 ### 🤖 Nexora AI SaaS Landing Page
 Modern AI SaaS landing page with responsive layouts, pricing, FAQ, testimonials, and interactive UI.
